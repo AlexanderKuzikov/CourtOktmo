@@ -1,0 +1,37 @@
+{
+  "name": "courtoktmo",
+  "version": "0.1.0",
+  "description": "Определение ОКТМО/ОКАТО/ОКПО для адресов судов РФ через DaData API",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "start": "tsx src/index.ts",
+    "party": "tsx src/index.ts party",
+    "address": "tsx src/index.ts address",
+    "psp": "tsx src/index.ts psp",
+    "gar:extract": "node gar/extract-gar.mjs",
+    "gar:build-addr": "node gar/build-addr-map.mjs",
+    "gar:build-mun": "node gar/build-mun-map.mjs",
+    "gar:build-houses": "node gar/build-houses-map.mjs",
+    "gar:build-street": "node gar/build-street-houses-map.mjs",
+    "gar:resolve": "node gar/resolve-court-address.mjs",
+    "gar:run-all": "node gar/run-all-regions.mjs",
+    "typecheck": "tsc --noEmit",
+    "format": "prettier --write \"src/**/*.ts\"",
+    "format:check": "prettier --check \"src/**/*.ts\""
+  },
+  "dependencies": {
+    "axios": "^1.7.9",
+    "bottleneck": "^2.19.5",
+    "commander": "^13.1.0",
+    "sax": "^1.6.0",
+    "yauzl": "^3.4.0"
+  },
+  "devDependencies": {
+    "@types/node": "^24.0.0",
+    "prettier": "^3.5.0",
+    "tsx": "^4.19.0",
+    "typescript": "^7.0.2"
+  },
+  "license": "Apache-2.0"
+}
