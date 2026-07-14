@@ -1,0 +1,1399 @@
+{
+  "courts": [
+    {
+      "code": "59RS0006",
+      "name": "Орджоникидзевский районный суд г. Перми (ПСП)",
+      "address": "614026, г. Пермь, ул. Валёжная, д. 13",
+      "court_type": "RS",
+      "inn": null,
+      "website": "http://ordgonik.perm.sudrf.ru",
+      "psp_index": "59PSP0001"
+    },
+    {
+      "code": "59RS0014",
+      "name": "Верещагинский районный суд Пермского края (ПСП)",
+      "address": "617240, с. Сива, ул. Ленина, д. 49",
+      "court_type": "RS",
+      "inn": null,
+      "website": "http://veresh.perm.sudrf.ru",
+      "psp_index": "59PSP0002"
+    },
+    {
+      "code": "59RS0017",
+      "name": "Губахинский городской суд Пермского края (ПСП)",
+      "address": "618270, г. Гремячинск, ул. Ленина, д. 192",
+      "court_type": "RS",
+      "inn": null,
+      "website": "http://gubacha.perm.sudrf.ru",
+      "psp_index": "59PSP0003"
+    },
+    {
+      "code": "59RS0029",
+      "name": "Нытвенский районный суд Пермского края (ПСП)",
+      "address": "618100, Пермский край, г. Оханск, ул. Ленина, д.27",
+      "court_type": "RS",
+      "inn": null,
+      "website": "http://nytva.perm.sudrf.ru",
+      "psp_index": "59PSP0004"
+    },
+    {
+      "code": "59RS0035",
+      "name": "Соликамский городской суд Пермского края (ПСП)",
+      "address": "618540, г. Соликамск, ул. 20-летия Победы, д. 155",
+      "court_type": "RS",
+      "inn": null,
+      "website": "http://solikam.perm.sudrf.ru",
+      "psp_index": "59PSP0005"
+    },
+    {
+      "code": "59RS0044",
+      "name": "Чусовской городской суд Пермского края (ПСП)",
+      "address": "618820 г. Горнозаводск, ул. Мира, д. 8",
+      "court_type": "RS",
+      "inn": null,
+      "website": "http://chusovoi.perm.sudrf.ru",
+      "psp_index": "59PSP0006"
+    },
+    {
+      "code": "03RS0010",
+      "name": "Белорецкий межрайонный суд Республики Башкортостан (ПСП)",
+      "address": "453500, Республика Башкортостан, г. Белорецк, ул. Б. Хмельницкого, д. 8а.",
+      "court_type": "RS",
+      "inn": null,
+      "website": "http://belorecky.bkr.sudrf.ru",
+      "psp_index": "03PSP0001"
+    },
+    {
+      "code": "03RS0012",
+      "name": "Кумертауский межрайонный суд Республики Башкортостан (ПСП)",
+      "address": "453361, с. Ермолаево, ул. Чапаева, д.2",
+      "court_type": "RS",
+      "inn": null,
+      "website": "http://kumertauskiy.bkr.sudrf.ru",
+      "psp_index": "03PSP0002"
+    },
+    {
+      "code": "03RS0019",
+      "name": "Абзелиловский районный суд Республики Башкортостан (ПСП)",
+      "address": "453620, с. Аскарово, ул. Коммунистическая, д.19",
+      "court_type": "RS",
+      "inn": null,
+      "website": "http://abzelilovsky.bkr.sudrf.ru",
+      "psp_index": "03PSP0003"
+    },
+    {
+      "code": "03RS0037",
+      "name": "Гафурийский межрайонный суд Республики Башкортостан (ПСП)",
+      "address": "453481, Аургазинский район, с. Толбазы, ул. Первомайская, д. 17",
+      "court_type": "RS",
+      "inn": null,
+      "website": "http://gafuriysky.bkr.sudrf.ru",
+      "psp_index": "03PSP0004"
+    },
+    {
+      "code": "03RS0043",
+      "name": "Зилаирский межрайонный суд Республики Башкортостан (ПСП)",
+      "address": "453800, Хайбуллинский р-н, с. Акъяр, ул. Акмуллы, д. 24",
+      "court_type": "RS",
+      "inn": null,
+      "website": "http://zilairsky.bkr.sudrf.ru",
+      "psp_index": "03PSP0005"
+    },
+    {
+      "code": "03RS0047",
+      "name": "Караидельский межрайонный суд Республики Башкортостан (ПСП)",
+      "address": "452880, с. Аскино, ул. Пионерская, д. 20",
+      "court_type": "RS",
+      "inn": null,
+      "website": "http://karaidelsky.bkr.sudrf.ru",
+      "psp_index": "03PSP0006"
+    },
+    {
+      "code": "03RS0059",
+      "name": "Салаватский межрайонный суд Республики Башкортостан (ПСП)",
+      "address": "452530, с. Месягутово, ул. И. Усова, д. 16",
+      "court_type": "RS",
+      "inn": null,
+      "website": "http://salavatskiy.bkr.sudrf.ru",
+      "psp_index": "03PSP0007"
+    },
+    {
+      "code": "04RS0001",
+      "name": "Баргузинский районный суд Республики Бурятия (ПСП)",
+      "address": "671640, с. Курумкан, пер. Школа-Интернат, д. 3",
+      "court_type": "RS",
+      "inn": null,
+      "website": "http://barguzinsky.bur.sudrf.ru",
+      "psp_index": "04PSP0001"
+    },
+    {
+      "code": "04RS0005",
+      "name": "Джидинский районный суд Республики Бурятия (ПСП)",
+      "address": "671920, Республика Бурятия, с. Петропавловка, ул. Терешковой, д. 7А",
+      "court_type": "RS",
+      "inn": null,
+      "website": "http://dzhidinsky.bur.sudrf.ru",
+      "psp_index": "04PSP0002"
+    },
+    {
+      "code": "04RS0019",
+      "name": "Прибайкальский районный суд Республики Бурятия (ПСП)",
+      "address": "671260, Прибайкальский р-н, с. Ильинка, ул. Октябрьская, д. 188",
+      "court_type": "RS",
+      "inn": null,
+      "website": "http://pribaikalsky.bur.sudrf.ru",
+      "psp_index": "04PSP0003"
+    },
+    {
+      "code": "04RS0020",
+      "name": "Северобайкальский городской суд Республики Бурятия (ПСП)",
+      "address": "ул. Полиграфистов, д.18",
+      "court_type": "RS",
+      "inn": null,
+      "website": "http://severobaikalsky.bur.sudrf.ru",
+      "psp_index": "04PSP0004"
+    },
+    {
+      "code": "04RS0024",
+      "name": "Хоринский районный суд Республики Бурятия (ПСП)",
+      "address": "671450, с. Кижинга, ул. Ленина, д. 15",
+      "court_type": "RS",
+      "inn": null,
+      "website": "http://horinsky.bur.sudrf.ru",
+      "psp_index": "04PSP0005"
+    },
+    {
+      "code": "10RS0005",
+      "name": "Костомукшский городской суд Республики Карелия (ПСП)",
+      "address": "186910, Республика Карелия, п.Калевала, ул. Советская д.16а",
+      "court_type": "RS",
+      "inn": null,
+      "website": "http://kostomukshsky.kar.sudrf.ru",
+      "psp_index": "10PSP0001"
+    },
+    {
+      "code": "11RS0008",
+      "name": "Сосногорский городской суд Республики Коми (ПСП)",
+      "address": "169420, пгт. Троицко-Печорск, ул. Мичурина, д. 15",
+      "court_type": "RS",
+      "inn": null,
+      "website": "http://sosnsud.komi.sudrf.ru",
+      "psp_index": "11PSP0001"
+    },
+    {
+      "code": "11RS0013",
+      "name": "Ижемский районный суд Республики Коми (ПСП)",
+      "address": "169480, с. Усть-Цильма, ул. Советская, д. 139",
+      "court_type": "RS",
+      "inn": null,
+      "website": "http://izmasud.komi.sudrf.ru",
+      "psp_index": "11PSP0002"
+    },
+    {
+      "code": "11RS0017",
+      "name": "Сысольский районный суд Республики Коми (ПСП)",
+      "address": "168170, с. Койгородок, ул. Мира, д. 1а",
+      "court_type": "RS",
+      "inn": null,
+      "website": "http://sysola.komi.sudrf.ru",
+      "psp_index": "11PSP0003"
+    },
+    {
+      "code": "14RS0015",
+      "name": "Мегино-Кангаласский районный суд Республики Саха (Якутия) (ПСП)",
+      "address": "678600, Амгинский район, с. Амга, ул. Партизанская, д., 49",
+      "court_type": "RS",
+      "inn": null,
+      "website": "http://mkang.jak.sudrf.ru",
+      "psp_index": "14PSP0001"
+    },
+    {
+      "code": "14RS0018",
+      "name": "Намский районный суд Республики Саха (Якутия) (ПСП)",
+      "address": "678030, Горный район, с. Бердигестях, ул. Гагарина, д. 10",
+      "court_type": "RS",
+      "inn": null,
+      "website": "http://nam.jak.sudrf.ru",
+      "psp_index": "14PSP0002"
+    },
+    {
+      "code": "14RS0029",
+      "name": "Усть-Алданский районный суд Республики Саха (Якутия) (ПСП)",
+      "address": "678650, Таттинский район, с. Ытык-Кюель, ул. А. Кулаковского, д. 25",
+      "court_type": "RS",
+      "inn": null,
+      "website": "http://bor.jak.sudrf.ru",
+      "psp_index": "14PSP0003"
+    },
+    {
+      "code": "18RS0009",
+      "name": "Воткинский районный суд Удмуртской Республики (ПСП)",
+      "address": "427070, с. Шаркан, ул. Советская, д. 17",
+      "court_type": "RS",
+      "inn": null,
+      "website": "http://votkinskiygor.udm.sudrf.ru",
+      "psp_index": "18PSP0001"
+    },
+    {
+      "code": "18RS0011",
+      "name": "Глазовский районный суд Удмуртской Республики (ПСП)",
+      "address": "427500, пос. Яр, ул. Советская, д. 53",
+      "court_type": "RS",
+      "inn": null,
+      "website": "http://glazovskiygor.udm.sudrf.ru",
+      "psp_index": "18PSP0002"
+    },
+    {
+      "code": "18RS0016",
+      "name": "Кезский районный суд Удмуртской Республики (ПСП)",
+      "address": "427060, Дебесский район, с. Дебесы, ул. Ярославцева, д. 1",
+      "court_type": "RS",
+      "inn": null,
+      "website": "http://kezskiy.udm.sudrf.ru",
+      "psp_index": "18PSP0003"
+    },
+    {
+      "code": "18RS0017",
+      "name": "Кизнерский районный суд Удмуртской Республики (ПСП)",
+      "address": "427730, с. Грахово, ул. Ачинцева, д. 22",
+      "court_type": "RS",
+      "inn": null,
+      "website": "http://kiznerskiy.udm.sudrf.ru",
+      "psp_index": "18PSP0004"
+    },
+    {
+      "code": "18RS0021",
+      "name": "Можгинский районный суд Удмуртской Республики (ПСП)",
+      "address": "427880, с. Алнаши, ул. Садовая, д. 18",
+      "court_type": "RS",
+      "inn": null,
+      "website": "http://mozhginskiygor.udm.sudrf.ru",
+      "psp_index": "18PSP0005"
+    },
+    {
+      "code": "18RS0022",
+      "name": "Малопургинский районный суд Удмуртской Республики (ПСП)",
+      "address": "427840, с. Киясово, ул. Советская, д. 2",
+      "court_type": "RS",
+      "inn": null,
+      "website": "http://malopurginskiy.udm.sudrf.ru",
+      "psp_index": "18PSP0006"
+    },
+    {
+      "code": "18RS0024",
+      "name": "Сарапульский районный суд Удмуртской Республики (ПСП)",
+      "address": "427920, с.Каракулино, ул. 60 лет Октября, д.4",
+      "court_type": "RS",
+      "inn": null,
+      "website": "http://sarapulskiy.udm.sudrf.ru",
+      "psp_index": "18PSP0007"
+    },
+    {
+      "code": "18RS0026",
+      "name": "Сюмсинский районный суд Удмуртской Республики (ПСП)",
+      "address": "427270, Удмуртская Республика, с. Селты, ул. Юбилейная, д. 5",
+      "court_type": "RS",
+      "inn": null,
+      "website": "http://sumsinsky.udm.sudrf.ru",
+      "psp_index": "18PSP0008"
+    },
+    {
+      "code": "18RS0027",
+      "name": "Увинский районный суд Удмуртской Республики (ПСП)",
+      "address": "427310, с. Вавож, ул. Советская, д. 24",
+      "court_type": "RS",
+      "inn": null,
+      "website": "http://uvinskiy.udm.sudrf.ru",
+      "psp_index": "18PSP0009"
+    },
+    {
+      "code": "18RS0029",
+      "name": "Юкаменский районный суд Удмуртской Республики (ПСП)",
+      "address": "427650, с. Красногорское, ул. Ленина, д. 64",
+      "court_type": "RS",
+      "inn": null,
+      "website": "http://yukamenskiy.udm.sudrf.ru",
+      "psp_index": "18PSP0010"
+    },
+    {
+      "code": "19RS0003",
+      "name": "Саяногорский городской суд Республики Хакасия (ПСП)",
+      "address": "г. Саяногорск, ул. Металлургов, д. 23",
+      "court_type": "RS",
+      "inn": null,
+      "website": "http://saianogorsky.hak.sudrf.ru",
+      "psp_index": "19PSP0001"
+    },
+    {
+      "code": "19RS0004",
+      "name": "Аскизский районный суд Республики Хакасия (ПСП)",
+      "address": "655700, с. Аскиз, ул. Красноармейская, д. 16а",
+      "court_type": "RS",
+      "inn": null,
+      "website": "http://akzisky.hak.sudrf.ru",
+      "psp_index": "19PSP0002"
+    },
+    {
+      "code": "22RS0011",
+      "name": "Рубцовский городской суд Алтайского края (ПСП)",
+      "address": "658224, г. Рубцовск, пр. Ленина, д.47",
+      "court_type": "RS",
+      "inn": null,
+      "website": "http://rubtcovsky.alt.sudrf.ru",
+      "psp_index": "22PSP0001"
+    },
+    {
+      "code": "22RS0037",
+      "name": "Павловский районный суд Алтайского края (ПСП)",
+      "address": "659000, с. Павловск, ул. Пожогина, д.9",
+      "court_type": "RS",
+      "inn": null,
+      "website": "http://pavlovsky.alt.sudrf.ru",
+      "psp_index": "22PSP0002"
+    },
+    {
+      "code": "22RS0061",
+      "name": "Целинный районный суд Алтайского края (ПСП)",
+      "address": "659470, с. Ельцовка, ул. Ленина, д. 12",
+      "court_type": "RS",
+      "inn": null,
+      "website": "http://celinniy.alt.sudrf.ru",
+      "psp_index": "22PSP0003"
+    },
+    {
+      "code": "23KJ0004",
+      "name": "Четвертый кассационный суд общей юрисдикции (ПСП)",
+      "address": "350000, г. Краснодар, ул. Красная, д.113 (Уг.)",
+      "court_type": "KJ",
+      "inn": null,
+      "website": "http://4kas.sudrf.ru",
+      "psp_index": "23PSP0001"
+    },
+    {
+      "code": "23KJ0004",
+      "name": "Четвертый кассационный суд общей юрисдикции (ПСП)",
+      "address": "350907, г. Краснодар, ул. Дзержинского, д. 5 (Гр.)",
+      "court_type": "KJ",
+      "inn": null,
+      "website": "http://4kas.sudrf.ru",
+      "psp_index": "23PSP0002"
+    },
+    {
+      "code": "24OS0000",
+      "name": "Красноярский краевой суд (ПСП)",
+      "address": "660049, г. Красноярск, просп. Мира, д. 9 (админ. коллегия)",
+      "court_type": "OS",
+      "inn": null,
+      "website": "http://kraevoy.krk.sudrf.ru",
+      "psp_index": "24PSP0001"
+    },
+    {
+      "code": "25RS0029",
+      "name": "Уссурийский районный суд Приморского края (ПСП)",
+      "address": "692519, г. Уссурийск, ул. Краснознаменная, д. 198",
+      "court_type": "RS",
+      "inn": null,
+      "website": "http://ussuriysky.prm.sudrf.ru",
+      "psp_index": "25PSP0001"
+    },
+    {
+      "code": "27RS0010",
+      "name": "Солнечный районный суд Хабаровского края (ПСП)",
+      "address": "ПСП, 682380, р-н им. Полины Осипенко, с. им. Полины Осипенко, Кербинский пер., д. 1",
+      "court_type": "RS",
+      "inn": null,
+      "website": "http://solnechniy.hbr.sudrf.ru",
+      "psp_index": "27PSP0001"
+    },
+    {
+      "code": "28RS0002",
+      "name": "Белогорский городской суд Амурской области (ПСП)",
+      "address": "676850, г. Белогорск, ул. Кирова, д. 79",
+      "court_type": "RS",
+      "inn": null,
+      "website": "http://belogorskiygs.amr.sudrf.ru",
+      "psp_index": "28PSP0001"
+    },
+    {
+      "code": "28RS0004",
+      "name": "Благовещенский городской суд Амурской области (ПСП)",
+      "address": "г. Благовещенск, ул. Краснофлотская, д. 137",
+      "court_type": "RS",
+      "inn": null,
+      "website": "http://blag-gs.amr.sudrf.ru/",
+      "psp_index": "28PSP0002"
+    },
+    {
+      "code": "28RS0008",
+      "name": "Зейский районный суд Амурской области (ПСП)",
+      "address": "676244, Амурская обл., г. Зея, микрорайон Светлый, д. 42 А",
+      "court_type": "RS",
+      "inn": null,
+      "website": "http://zeiskiy.amr.sudrf.ru",
+      "psp_index": "28PSP0003"
+    },
+    {
+      "code": "28RS0017",
+      "name": "Свободненский городской суд Амурской области (ПСП)",
+      "address": "676450, Амурская обл., г. Свободный, ул. Ленина, д. 83",
+      "court_type": "RS",
+      "inn": null,
+      "website": "http://svobodnenskgs.amr.sudrf.ru",
+      "psp_index": "28PSP0004"
+    },
+    {
+      "code": "31RS0001",
+      "name": "Алексеевский районный суд Белгородской области (ПСП)",
+      "address": "309870, с. Красное, ул. Октябрьская, д. 119",
+      "court_type": "RS",
+      "inn": null,
+      "website": "http://alekseevsky.blg.sudrf.ru",
+      "psp_index": "31PSP0001"
+    },
+    {
+      "code": "31RS0005",
+      "name": "Вейделевский районный суд Белгородской области (ПСП)",
+      "address": "ПСП, 309740, Белгородская обл., п. Ровеньки, ул. Кирова, д. 8",
+      "court_type": "RS",
+      "inn": null,
+      "website": "http://veidelevsky.blg.sudrf.ru",
+      "psp_index": "31PSP0002"
+    },
+    {
+      "code": "31RS0018",
+      "name": "Ракитянский районный суд Белгородской области (ПСП)",
+      "address": "309420, Белгородская обл., пгт. Красная Яруга, ул. Центральная, д. 73",
+      "court_type": "RS",
+      "inn": null,
+      "website": "http://rakitiansky.blg.sudrf.ru",
+      "psp_index": "31PSP0003"
+    },
+    {
+      "code": "31RS0025",
+      "name": "Яковлевский районный суд Белгородской области (ПСП)",
+      "address": "ПСП, 309110, Белгородская область, Ивнянский район, п. Ивня, ул. Десницкого, д.1",
+      "court_type": "RS",
+      "inn": null,
+      "website": "http://yakovlensky.blg.sudrf.ru",
+      "psp_index": "31PSP0004"
+    },
+    {
+      "code": "32RS0005",
+      "name": "Выгоничский районный суд Брянской области (ПСП)",
+      "address": "242030, Брянская обл., с. Жирятино, ул. Мира, д. 12",
+      "court_type": "RS",
+      "inn": null,
+      "website": "http://vigonichsky.brj.sudrf.ru",
+      "psp_index": "32PSP0001"
+    },
+    {
+      "code": "32RS0018",
+      "name": "Красногорский районный суд Брянской области (ПСП)",
+      "address": "243650, Брянская обл., с. Гордеевка, ул. Кирова, д. 1",
+      "court_type": "RS",
+      "inn": null,
+      "website": "http://krasnogorsky.brj.sudrf.ru",
+      "psp_index": "32PSP0002"
+    },
+    {
+      "code": "32RS0027",
+      "name": "Советский районный суд г. Брянска (ПСП)",
+      "address": "241050, г. Брянск, пл. Карла Маркса, д. 2",
+      "court_type": "RS",
+      "inn": null,
+      "website": "http://sovetsky.brj.sudrf.ru",
+      "psp_index": "32PSP0003"
+    },
+    {
+      "code": "33RS0003",
+      "name": "Фрунзенский районный суд г. Владимира (ПСП)",
+      "address": "ул. Б. Нижегородская, д. 65 Е",
+      "court_type": "RS",
+      "inn": null,
+      "website": "http://frunzensky.wld.sudrf.ru",
+      "psp_index": "33PSP0001"
+    },
+    {
+      "code": "34OS0000",
+      "name": "Волгоградский областной суд (ПСП)",
+      "address": "400005, г. Волгоград, пр. Ленина, д. 53 А",
+      "court_type": "OS",
+      "inn": null,
+      "website": "http://oblsud.vol.sudrf.ru",
+      "psp_index": "34PSP0001"
+    },
+    {
+      "code": "34RS0008",
+      "name": "Центральный районный суд г. Волгограда (ПСП)",
+      "address": "400066, г. Волгоград, ул. Рокоссовского, д. 10",
+      "court_type": "RS",
+      "inn": null,
+      "website": "http://zent.vol.sudrf.ru",
+      "psp_index": "34PSP0002"
+    },
+    {
+      "code": "34RS0008",
+      "name": "Центральный районный суд г. Волгограда (ПСП)",
+      "address": "400005, г. Волгоград, ул. Коммунистическая, д. 46",
+      "court_type": "RS",
+      "inn": null,
+      "website": "http://zent.vol.sudrf.ru",
+      "psp_index": "34PSP0003"
+    },
+    {
+      "code": "34RS0017",
+      "name": "Иловлинский районный суд Волгоградской области (ПСП)",
+      "address": "403651, с. Ольховка, ул. Базарная, д. 16 Б",
+      "court_type": "RS",
+      "inn": null,
+      "website": "http://ilov.vol.sudrf.ru",
+      "psp_index": "34PSP0004"
+    },
+    {
+      "code": "34RS0038",
+      "name": "Среднеахтубинский районный суд Волгоградской области (ПСП)",
+      "address": "404161, г. Краснослободск, ул. Московская, д. 2",
+      "court_type": "RS",
+      "inn": null,
+      "website": "http://ahtub.vol.sudrf.ru",
+      "psp_index": "34PSP0005"
+    },
+    {
+      "code": "34RS0040",
+      "name": "Суровикинский районный суд Волгоградской области (ПСП)",
+      "address": "404462, рп. Чернышковский, ул. Техническая, д. 17",
+      "court_type": "RS",
+      "inn": null,
+      "website": "http://surov.vol.sudrf.ru",
+      "psp_index": "34PSP0006"
+    },
+    {
+      "code": "37OS0000",
+      "name": "Ивановский областной суд (ПСП)",
+      "address": "153000, г. Иваново, ул. Арсения, д. 3",
+      "court_type": "OS",
+      "inn": null,
+      "website": "http://oblsud.iwn.sudrf.ru",
+      "psp_index": "37PSP0001"
+    },
+    {
+      "code": "37RS0010",
+      "name": "Ленинский районный суд г. Иваново (ПСП)",
+      "address": "153000, г. Иваново, ул. Станко, д. 7 Б (уг.кол.)",
+      "court_type": "RS",
+      "inn": null,
+      "website": "http://leninsky.iwn.sudrf.ru",
+      "psp_index": "37PSP0002"
+    },
+    {
+      "code": "37RS0021",
+      "name": "Фурмановский городской суд Ивановской области (ПСП)",
+      "address": "155520, г. Фурманов, ул. Крестьянская, д. 2",
+      "court_type": "RS",
+      "inn": null,
+      "website": "http://furmanovsky.iwn.sudrf.ru",
+      "psp_index": "37PSP0003"
+    },
+    {
+      "code": "39OS0000",
+      "name": "Калининградский областной суд (ПСП)",
+      "address": "ОПС 236035, бокс № 5092 г. Калининград (для почт. корресп.)",
+      "court_type": "OS",
+      "inn": null,
+      "website": "http://oblsud.kln.sudrf.ru",
+      "psp_index": "39PSP0001"
+    },
+    {
+      "code": "39RS0001",
+      "name": "Ленинградский районный суд г. Калининграда (ПСП)",
+      "address": "а/я 5060, г. Калининград, 236035 (почт.)",
+      "court_type": "RS",
+      "inn": null,
+      "website": "http://leningradsky.kln.sudrf.ru",
+      "psp_index": "39PSP0002"
+    },
+    {
+      "code": "39RS0002",
+      "name": "Центральный районный суд г. Калининграда (ПСП)",
+      "address": "ОПС 236035, бокс № 5061 г. Калининград (для почт. корресп.)",
+      "court_type": "RS",
+      "inn": null,
+      "website": "http://centralny.kln.sudrf.ru",
+      "psp_index": "39PSP0003"
+    },
+    {
+      "code": "39RS0004",
+      "name": "Московский районный суд г. Калининграда (ПСП)",
+      "address": "ОПС 236035, бокс №5063 г. Калининград",
+      "court_type": "RS",
+      "inn": null,
+      "website": "http://moskovsky.kln.sudrf.ru",
+      "psp_index": "39PSP0004"
+    },
+    {
+      "code": "40RS0008",
+      "name": "Жуковский районный суд Калужской области (ПСП)",
+      "address": "249101, г. Таруса, ул. Ленина, д. 59",
+      "court_type": "RS",
+      "inn": null,
+      "website": "http://zhukovsky.klg.sudrf.ru",
+      "psp_index": "40PSP0001"
+    },
+    {
+      "code": "41RS0008",
+      "name": "Усть-Большерецкий районный суд Камчатского края (ПСП)",
+      "address": "684200, п. Соболево, ул. Советская, д. 27",
+      "court_type": "RS",
+      "inn": null,
+      "website": "http://ust-bolsherecky.kam.sudrf.ru",
+      "psp_index": "41PSP0001"
+    },
+    {
+      "code": "43RS0013",
+      "name": "Зуевский районный суд Кировской области (ПСП)",
+      "address": "612500, Кировская обл., пгт. Фалёнки, ул. Свободы, д. 132",
+      "court_type": "RS",
+      "inn": null,
+      "website": "http://zuevsky.kir.sudrf.ru",
+      "psp_index": "43PSP0001"
+    },
+    {
+      "code": "43RS0018",
+      "name": "Котельничский районный суд Кировской области (ПСП)",
+      "address": "612140, пгт. Даровской, ул. М. Гвардия, д. 21 А",
+      "court_type": "RS",
+      "inn": null,
+      "website": "http://kotelnichesky.kir.sudrf.ru",
+      "psp_index": "43PSP0002"
+    },
+    {
+      "code": "43RS0018",
+      "name": "Котельничский районный суд Кировской области (ПСП)",
+      "address": "612270, г. Орлов, ул. Кирова, д. 65",
+      "court_type": "RS",
+      "inn": null,
+      "website": "http://kotelnichesky.kir.sudrf.ru",
+      "psp_index": "43PSP0003"
+    },
+    {
+      "code": "43RS0021",
+      "name": "Малмыжский районный суд Кировской области (ПСП)",
+      "address": "613570, пгт. Кильмезь, ул. Зеленая, д. 13",
+      "court_type": "RS",
+      "inn": null,
+      "website": "http://malmizhsky.kir.sudrf.ru",
+      "psp_index": "43PSP0004"
+    },
+    {
+      "code": "43RS0022",
+      "name": "Мурашинский районный суд Кировской области (ПСП)",
+      "address": "613810, пгт. Опарино, ул. Первомайская, д. 20",
+      "court_type": "RS",
+      "inn": null,
+      "website": "http://murashinsky.kir.sudrf.ru",
+      "psp_index": "43PSP0005"
+    },
+    {
+      "code": "43RS0025",
+      "name": "Нолинский районный суд Кировской области (ПСП)",
+      "address": "613470, пгт. Нема, ул. Мира, д. 34",
+      "court_type": "RS",
+      "inn": null,
+      "website": "http://nolinsky.kir.sudrf.ru",
+      "psp_index": "43PSP0006"
+    },
+    {
+      "code": "43RS0025",
+      "name": "Нолинский районный суд Кировской области (ПСП)",
+      "address": "613430, пгт. Суна, ул. Большевиков, д. 4",
+      "court_type": "RS",
+      "inn": null,
+      "website": "http://nolinsky.kir.sudrf.ru",
+      "psp_index": "43PSP0007"
+    },
+    {
+      "code": "43RS0026",
+      "name": "Омутнинский районный суд Кировской области (ПСП)",
+      "address": "613060, пгт. Афанасьево, ул. Кр. Партизан, д. 5",
+      "court_type": "RS",
+      "inn": null,
+      "website": "http://omutninsky.kir.sudrf.ru",
+      "psp_index": "43PSP0008"
+    },
+    {
+      "code": "43RS0032",
+      "name": "Санчурский районный суд Кировской области (ПСП)",
+      "address": "612300, пгт. Кикнур, ул. Ленина, д. 38",
+      "court_type": "RS",
+      "inn": null,
+      "website": "http://sanchursky.kir.sudrf.ru",
+      "psp_index": "43PSP0009"
+    },
+    {
+      "code": "43RS0034",
+      "name": "Слободской районный суд Кировской области (ПСП)",
+      "address": "613200, г. Белая Холуница, ул. Советская, д. 29",
+      "court_type": "RS",
+      "inn": null,
+      "website": "http://slobodskoy.kir.sudrf.ru",
+      "psp_index": "43PSP0010"
+    },
+    {
+      "code": "43RS0034",
+      "name": "Слободской районный суд Кировской области (ПСП)",
+      "address": "613260, пгт. Нагорск, ул. Советская, д. 132",
+      "court_type": "RS",
+      "inn": null,
+      "website": "http://slobodskoy.kir.sudrf.ru",
+      "psp_index": "43PSP0011"
+    },
+    {
+      "code": "43RS0038",
+      "name": "Унинский районный суд Кировской области (ПСП)",
+      "address": "612470, пгт. Богородское, ул. Советская, д. 38",
+      "court_type": "RS",
+      "inn": null,
+      "website": "http://uninsky.kir.sudrf.ru",
+      "psp_index": "43PSP0012"
+    },
+    {
+      "code": "43RS0041",
+      "name": "Шабалинский районный суд Кировской области (ПСП)",
+      "address": "612040, пгт. Свеча, ул. Свободы, д. 21",
+      "court_type": "RS",
+      "inn": null,
+      "website": "http://shabalinsky.kir.sudrf.ru",
+      "psp_index": "43PSP0013"
+    },
+    {
+      "code": "43RS0043",
+      "name": "Яранский районный суд Кировской области (ПСП)",
+      "address": "612180, пгт. Арбаж, ул. Свободы, д. 10",
+      "court_type": "RS",
+      "inn": null,
+      "website": "http://yaransky.kir.sudrf.ru",
+      "psp_index": "43PSP0014"
+    },
+    {
+      "code": "43RS0043",
+      "name": "Яранский районный суд Кировской области (ПСП)",
+      "address": "612200, пгт. Тужа, ул. Горького, д. 15",
+      "court_type": "RS",
+      "inn": null,
+      "website": "http://yaransky.kir.sudrf.ru",
+      "psp_index": "43PSP0015"
+    },
+    {
+      "code": "44RS0005",
+      "name": "Буйский районный суд Костромской области (ПСП)",
+      "address": "157080, п. Сусанино, ул. 1-го мая, д. 2",
+      "court_type": "RS",
+      "inn": null,
+      "website": "http://buisky.kst.sudrf.ru",
+      "psp_index": "44PSP0001"
+    },
+    {
+      "code": "44RS0023",
+      "name": "Макарьевский районный суд Костромской области (ПСП)",
+      "address": "157980, Костромская обл., п. Кадый, ул. Четвертного, д. 19",
+      "court_type": "RS",
+      "inn": null,
+      "website": "http://makarievsky.kst.sudrf.ru",
+      "psp_index": "44PSP0002"
+    },
+    {
+      "code": "47RS0018",
+      "name": "Тосненский городской суд Ленинградской области (ПСП)",
+      "address": "187000, г. Тосно, пр. Ленина, д. 58",
+      "court_type": "RS",
+      "inn": null,
+      "website": "http://tosnensky.lo.sudrf.ru",
+      "psp_index": "47PSP0001"
+    },
+    {
+      "code": "48RS0005",
+      "name": "Липецкий районный суд Липецкой области (ПСП)",
+      "address": "399140, c. Доброе, ул. Интернациональная, д. 8",
+      "court_type": "RS",
+      "inn": null,
+      "website": "http://lipraisud.lpk.sudrf.ru",
+      "psp_index": "48PSP0001"
+    },
+    {
+      "code": "48RS0023",
+      "name": "Задонский районный суд Липецкой области (ПСП)",
+      "address": "399260, Липецкая обл., с. Хлевное, ул. Свободы, д. 83",
+      "court_type": "RS",
+      "inn": null,
+      "website": "http://zadonsksud.lpk.sudrf.ru",
+      "psp_index": "48PSP0002"
+    },
+    {
+      "code": "49RS0008",
+      "name": "Хасынский районный суд Магаданской области (ПСП)",
+      "address": "686050, Магаданская область, Тенькинский район, п. Усть-Омчуг, ул. Горняцкая, д.44 А",
+      "court_type": "RS",
+      "inn": null,
+      "website": "http://hasinsky.mag.sudrf.ru",
+      "psp_index": "49PSP0001"
+    },
+    {
+      "code": "50RS0021",
+      "name": "Красногорский городской суд Московской области (ПСП)",
+      "address": "ул. Речная, д. 20, корп. 1",
+      "court_type": "RS",
+      "inn": null,
+      "website": "http://krasnogorsk.mo.sudrf.ru",
+      "psp_index": "50PSP0001"
+    },
+    {
+      "code": "50RS0031",
+      "name": "Одинцовский городской суд Московской области (ПСП)",
+      "address": "143180, Московская область, Звенигород, ул. Почтовая, 51",
+      "court_type": "RS",
+      "inn": null,
+      "website": "http://odintsovo.mo.sudrf.ru",
+      "psp_index": "50PSP0002"
+    },
+    {
+      "code": "50RS0035",
+      "name": "Подольский городской суд Московской области (ПСП)",
+      "address": "142181, г.о. Подольск, мкр. Климовск, ул. Западная, д.3",
+      "court_type": "RS",
+      "inn": null,
+      "website": "http://podolsky.mo.sudrf.ru",
+      "psp_index": "50PSP0003"
+    },
+    {
+      "code": "50RS0036",
+      "name": "Пушкинский городской суд Московской области (ПСП)",
+      "address": "141207, Московская обл., г. Пушкино, ул. Оранжерейная, д. 21",
+      "court_type": "RS",
+      "inn": null,
+      "website": "http://pushkino.mo.sudrf.ru",
+      "psp_index": "50PSP0004"
+    },
+    {
+      "code": "51RS0009",
+      "name": "Кандалакшский районный суд Мурманской области (ПСП)",
+      "address": "184703, пгт. Умба, ул. Победы, д. 23",
+      "court_type": "RS",
+      "inn": null,
+      "website": "http://kan.mrm.sudrf.ru",
+      "psp_index": "51PSP0001"
+    },
+    {
+      "code": "52RS0006",
+      "name": "Сормовский районный суд г. Нижний Новгород (ПСП)",
+      "address": "ул. Свободы, д. 63, пом. 10",
+      "court_type": "RS",
+      "inn": null,
+      "website": "http://sormovsky.nnov.sudrf.ru",
+      "psp_index": "52PSP0001"
+    },
+    {
+      "code": "56RS0005",
+      "name": "Абдулинский районный суд Оренбургской области (ПСП)",
+      "address": "461880, с. Матвеевка, ул. Мира д. 5",
+      "court_type": "RS",
+      "inn": null,
+      "website": "http://abdulinsky.orb.sudrf.ru",
+      "psp_index": "56PSP0001"
+    },
+    {
+      "code": "56RS0038",
+      "name": "Сакмарский районный суд Оренбургской области (ПСП)",
+      "address": "462030, с. Октябрьское, ул. Луначарского, д.47",
+      "court_type": "RS",
+      "inn": null,
+      "website": "http://sakmarsky.orb.sudrf.ru",
+      "psp_index": "56PSP0002"
+    },
+    {
+      "code": "56RS0044",
+      "name": "Ясненский районный суд Оренбургской области (ПСП)",
+      "address": "462740, п. Светлый, ул. Советская, д. 22",
+      "court_type": "RS",
+      "inn": null,
+      "website": "http://yasnensky.orb.sudrf.ru",
+      "psp_index": "56PSP0003"
+    },
+    {
+      "code": "57RS0010",
+      "name": "Кромской районный суд Орловcкой области (ПСП)",
+      "address": "303450, Орловская обл., с. Тросна, ул. Первомайская, д. 4",
+      "court_type": "RS",
+      "inn": null,
+      "website": "http://kromskoy.orl.sudrf.ru",
+      "psp_index": "57PSP0001"
+    },
+    {
+      "code": "57RS0012",
+      "name": "Ливенский районный суд Орловcкой области (ПСП)",
+      "address": "303760, пгт. Долгое, ул. Октябрьская, д. 1",
+      "court_type": "RS",
+      "inn": null,
+      "website": "http://livensky.orl.sudrf.ru",
+      "psp_index": "57PSP0002"
+    },
+    {
+      "code": "57RS0014",
+      "name": "Мценский районный суд Орловcкой области (ПСП)",
+      "address": "303580, с. Корсаково, ул. Советская, д.31",
+      "court_type": "RS",
+      "inn": null,
+      "website": "http://mcensky.orl.sudrf.ru",
+      "psp_index": "57PSP0003"
+    },
+    {
+      "code": "57RS0020",
+      "name": "Хотынецкий районный суд Орловcкой области (ПСП)",
+      "address": "303100, с. Знаменское, ул. Ленина, д. 33 А",
+      "court_type": "RS",
+      "inn": null,
+      "website": "http://hotynecky.orl.sudrf.ru",
+      "psp_index": "57PSP0004"
+    },
+    {
+      "code": "57RS0022",
+      "name": "Заводской районный суд г. Орла (ПСП)",
+      "address": "пер. Комсомольский, д. 11",
+      "court_type": "RS",
+      "inn": null,
+      "website": "http://zavodskoy.orl.sudrf.ru",
+      "psp_index": "57PSP0005"
+    },
+    {
+      "code": "58RS0019",
+      "name": "Лопатинский районный суд Пензенской области (ПСП)",
+      "address": "442450, с. Русский Камешкир, ул. Гагарина, д. 17Б",
+      "court_type": "RS",
+      "inn": null,
+      "website": "http://lopatinsky.pnz.sudrf.ru",
+      "psp_index": "58PSP0001"
+    },
+    {
+      "code": "58RS0027",
+      "name": "Октябрьский районный суд г. Пензы (ПСП)",
+      "address": "440047, г. Пенза, пр. Победы, д. 93A",
+      "court_type": "RS",
+      "inn": null,
+      "website": "http://oktyabrsky.pnz.sudrf.ru",
+      "psp_index": "58PSP0002"
+    },
+    {
+      "code": "58RS0028",
+      "name": "Пензенский районный суд Пензенской области (ПСП)",
+      "address": "442400, с. Кондоль, ул. Нагорная, д. 17",
+      "court_type": "RS",
+      "inn": null,
+      "website": "http://penzensky.pnz.sudrf.ru",
+      "psp_index": "58PSP0003"
+    },
+    {
+      "code": "60RS0004",
+      "name": "Бежаницкий районный суд Псковской области (ПСП)",
+      "address": "182900, п. Локня, ул. Социалистическая, д. 6",
+      "court_type": "RS",
+      "inn": null,
+      "website": "http://bezhanicky.psk.sudrf.ru",
+      "psp_index": "60PSP0001"
+    },
+    {
+      "code": "60RS0005",
+      "name": "Великолукский районный суд Псковской области (ПСП)",
+      "address": "182010, Куньинский район, рп. Кунья, ул. Дзержинского, д. 104",
+      "court_type": "RS",
+      "inn": null,
+      "website": "http://velikoluksky.psk.sudrf.ru",
+      "psp_index": "60PSP0002"
+    },
+    {
+      "code": "60RS0017",
+      "name": "Печорский районный суд Псковской области (ПСП)",
+      "address": "181270, п. Палкино, ул. Островская, д. 21",
+      "court_type": "RS",
+      "inn": null,
+      "website": "http://pechorsky.psk.sudrf.ru",
+      "psp_index": "60PSP0003"
+    },
+    {
+      "code": "60RS0022",
+      "name": "Пушкиногорский районный суд Псковской области (ПСП)",
+      "address": "182440, г. Новоржев, ул. Германа, д. 69",
+      "court_type": "RS",
+      "inn": null,
+      "website": "http://pushkinogorsky.psk.sudrf.ru",
+      "psp_index": "60PSP0004"
+    },
+    {
+      "code": "61RS0011",
+      "name": "Белокалитвинский городской суд Ростовской области (ПСП)",
+      "address": "347060, ст. Тацинская, ул. Ленина, д. 41",
+      "court_type": "RS",
+      "inn": null,
+      "website": "http://belokalitvensky.ros.sudrf.ru/",
+      "psp_index": "61PSP0001"
+    },
+    {
+      "code": "61RS0025",
+      "name": "Багаевский районный суд Ростовской области (ПСП)",
+      "address": "347780, п. Веселый, пер. Комсомольский, д. 51",
+      "court_type": "RS",
+      "inn": null,
+      "website": "http://bagaevsky.ros.sudrf.ru",
+      "psp_index": "61PSP0002"
+    },
+    {
+      "code": "61RS0057",
+      "name": "Усть-Донецкий районный суд Ростовской области (ПСП)",
+      "address": "347250, г. Константиновск, ул. 25 Октября, д. 59",
+      "court_type": "RS",
+      "inn": null,
+      "website": "http://ustdonetsky.ros.sudrf.ru",
+      "psp_index": "61PSP0003"
+    },
+    {
+      "code": "61RS0062",
+      "name": "Сальский районный суд Ростовской области (ПСП)",
+      "address": "347570, Ростовская обл., с. Песчанокопское, пл. Ленина, д. 3",
+      "court_type": "RS",
+      "inn": null,
+      "website": "http://salskiy.ros.sudrf.ru",
+      "psp_index": "61PSP0004"
+    },
+    {
+      "code": "62RS0003",
+      "name": "Октябрьский районный суд г. Рязани (ПСП)",
+      "address": "390000, г. Рязань,ул. Соборная, д. 11/63",
+      "court_type": "RS",
+      "inn": null,
+      "website": "http://oktiabrsky.riz.sudrf.ru",
+      "psp_index": "62PSP0001"
+    },
+    {
+      "code": "62RS0005",
+      "name": "Рязанский районный суд Рязанской области (ПСП)",
+      "address": "391170, Рязанская область, рп. Старожилово, ул. Советская, д. 7",
+      "court_type": "RS",
+      "inn": null,
+      "website": "http://riazansky.riz.sudrf.ru",
+      "psp_index": "62PSP0002"
+    },
+    {
+      "code": "62RS0008",
+      "name": "Кадомский районный суд Рязанской области (ПСП)",
+      "address": "391660, рп. Ермишь, пл. Ленина, д. 63",
+      "court_type": "RS",
+      "inn": null,
+      "website": "http://kadomsky.riz.sudrf.ru",
+      "psp_index": "62PSP0003"
+    },
+    {
+      "code": "62RS0014",
+      "name": "Михайловский районный суд Рязанской области (ПСП)",
+      "address": "391740, с. Захарово, ул. Победы, д. 7",
+      "court_type": "RS",
+      "inn": null,
+      "website": "http://mihailovsky.riz.sudrf.ru",
+      "psp_index": "62PSP0004"
+    },
+    {
+      "code": "62RS0020",
+      "name": "Ряжский районный суд Рязанской области (ПСП)",
+      "address": "ПСП, 391240, рп. Александро-Невский, ул. Советская, д. 13",
+      "court_type": "RS",
+      "inn": null,
+      "website": "http://riazhsky.riz.sudrf.ru",
+      "psp_index": "62PSP0005"
+    },
+    {
+      "code": "62RS0021",
+      "name": "Сапожковский районный суд Рязанской области (ПСП)",
+      "address": "391920, Рязанская область, рп. Ухолово, ул. Революции, д. 17",
+      "court_type": "RS",
+      "inn": null,
+      "website": "http://sapozhkovsky.riz.sudrf.ru",
+      "psp_index": "62PSP0006"
+    },
+    {
+      "code": "62RS0023",
+      "name": "Сасовский районный суд Рязанской области (ПСП)",
+      "address": "391630, рп. Пителино, ул. Красная, д. 24",
+      "court_type": "RS",
+      "inn": null,
+      "website": "http://sasovsky.riz.sudrf.ru",
+      "psp_index": "62PSP0007"
+    },
+    {
+      "code": "62RS0025",
+      "name": "Скопинский районный суд Рязанской области (ПСП)",
+      "address": "391770, Рязанская область, рп. Милославское, ул. Центральная, д. 33",
+      "court_type": "RS",
+      "inn": null,
+      "website": "http://skopinski.riz.sudrf.ru",
+      "psp_index": "62PSP0008"
+    },
+    {
+      "code": "62RS0030",
+      "name": "Шацкий районный суд Рязанской области (ПСП)",
+      "address": "391480, рп. Путятино, ул. Ворошилова, д. 9",
+      "court_type": "RS",
+      "inn": null,
+      "website": "http://shacky.riz.sudrf.ru",
+      "psp_index": "62PSP0009"
+    },
+    {
+      "code": "62RS0031",
+      "name": "Шиловский районный суд Рязанской области (ПСП)",
+      "address": "391420, рп. Чучково, пл. Ленина, д. 40",
+      "court_type": "RS",
+      "inn": null,
+      "website": "http://shilovsky.riz.sudrf.ru",
+      "psp_index": "62PSP0010"
+    },
+    {
+      "code": "63GV0002",
+      "name": "Оренбургский гарнизонный военный суд (ПСП)",
+      "address": "460040, г. Оренбург, ул. Мира, д. 3а",
+      "court_type": "GV",
+      "inn": null,
+      "website": "http://orenburgskygvs.orb.sudrf.ru",
+      "psp_index": "63PSP0001"
+    },
+    {
+      "code": "63GV0006",
+      "name": "Пермский гарнизонный военный суд (ПСП)",
+      "address": "610000, г. Киров, ул. Московская, д. 28",
+      "court_type": "GV",
+      "inn": null,
+      "website": "http://voen.perm.sudrf.ru",
+      "psp_index": "63PSP0002"
+    },
+    {
+      "code": "64RS0010",
+      "name": "Вольский районный суд Саратовской области (ПСП)",
+      "address": "412780, г. Хвалынск, ул. Революционная, д. 110",
+      "court_type": "RS",
+      "inn": null,
+      "website": "http://volsky.sar.sudrf.ru",
+      "psp_index": "64PSP0001"
+    },
+    {
+      "code": "64RS0023",
+      "name": "Новоузенский районный суд Саратовской области (ПСП)",
+      "address": "413370, с. Александров-Гай, ул. Коммунистическая, д. 35",
+      "court_type": "RS",
+      "inn": null,
+      "website": "http://novouzensky.sar.sudrf.ru",
+      "psp_index": "64PSP0002"
+    },
+    {
+      "code": "66GV0006",
+      "name": "Магнитогорский гарнизонный военный суд (ПСП)",
+      "address": "456444, г. Чебаркуль, ул. Каширина, 16, а/я 413",
+      "court_type": "GV",
+      "inn": null,
+      "website": "http://mgvs.chel.sudrf.ru",
+      "psp_index": "66PSP0001"
+    },
+    {
+      "code": "66OV0001",
+      "name": "Центральный окружной военный суд (ПСП)",
+      "address": "443068, г. Самара, пр. Масленникова, д. 12",
+      "court_type": "OV",
+      "inn": null,
+      "website": "http://covs.svd.sudrf.ru/",
+      "psp_index": "66PSP0002"
+    },
+    {
+      "code": "66RS0001",
+      "name": "Верх-Исетский районный суд г. Екатеринбурга Свердловской области (ПСП)",
+      "address": "620028, г. Екатеринбург, ул. Кирова, д. 2",
+      "court_type": "RS",
+      "inn": null,
+      "website": "http://verhisetsky.svd.sudrf.ru",
+      "psp_index": "66PSP0003"
+    },
+    {
+      "code": "66RS0023",
+      "name": "Верхотурский районный суд Свердловской области (ПСП)",
+      "address": "624400, г. Новая Ляля, ул. Советская, д. 14",
+      "court_type": "RS",
+      "inn": null,
+      "website": "http://verhotursky.svd.sudrf.ru",
+      "psp_index": "66PSP0004"
+    },
+    {
+      "code": "66RS0028",
+      "name": "Ирбитский районный суд Свердловской области (ПСП)",
+      "address": "623870, с. Байкалово, ул. Свердлова, д. 3",
+      "court_type": "RS",
+      "inn": null,
+      "website": "http://irbitsky.svd.sudrf.ru",
+      "psp_index": "66PSP0005"
+    },
+    {
+      "code": "66RS0029",
+      "name": "Камышловский районный суд Свердловской области (ПСП)",
+      "address": "623550, р.п. Пышма, ул. Кирова, д. 21",
+      "court_type": "RS",
+      "inn": null,
+      "website": "http://kamyshlovsky.svd.sudrf.ru",
+      "psp_index": "66PSP0006"
+    },
+    {
+      "code": "66RS0051",
+      "name": "Серовский районный суд Свердловской области (ПСП)",
+      "address": "624910, рп. Гари, ул. Октябрьская, д. 8",
+      "court_type": "RS",
+      "inn": null,
+      "website": "http://serovsky.svd.sudrf.ru",
+      "psp_index": "66PSP0007"
+    },
+    {
+      "code": "66RS0051",
+      "name": "Серовский районный суд Свердловской области (ПСП)",
+      "address": "624971, рп. Сосьва, ул. Ленина, д. 2 А",
+      "court_type": "RS",
+      "inn": null,
+      "website": "http://serovsky.svd.sudrf.ru",
+      "psp_index": "66PSP0008"
+    },
+    {
+      "code": "66RS0057",
+      "name": "Талицкий районный суд Свердловской области (ПСП)",
+      "address": "623650, рп. Тугулым, ул. Ленина, д. 42",
+      "court_type": "RS",
+      "inn": null,
+      "website": "http://talicky.svd.sudrf.ru",
+      "psp_index": "66PSP0009"
+    },
+    {
+      "code": "66RS0059",
+      "name": "Туринский районный суд Свердловской области (ПСП)",
+      "address": "623930, с. Туринская слобода, ул. Первомайская, д. 5",
+      "court_type": "RS",
+      "inn": null,
+      "website": "http://turinsky.svd.sudrf.ru",
+      "psp_index": "66PSP0010"
+    },
+    {
+      "code": "67RS0020",
+      "name": "Руднянский районный суд Смоленской области (ПСП)",
+      "address": "216790, г. Рудня, ул. Льнозаводская, д. 2",
+      "court_type": "RS",
+      "inn": null,
+      "website": "http://rudnya.sml.sudrf.ru",
+      "psp_index": "67PSP0001"
+    },
+    {
+      "code": "71RS0009",
+      "name": "Ефремовский межрайонный суд Тульской области (ПСП)",
+      "address": "301990, Тульская область, Каменский р-н, с. Архангельское, ул. Тихомирова, д. 38",
+      "court_type": "RS",
+      "inn": null,
+      "website": "http://efremovsky.tula.sudrf.ru",
+      "psp_index": "71PSP0001"
+    },
+    {
+      "code": "71RS0027",
+      "name": "Пролетарский районный суд г.Тулы (ПСП)",
+      "address": "300016, г.Тула, ул. Доктора Гумилевской, д. 2",
+      "court_type": "RS",
+      "inn": null,
+      "website": "http://proletarsky.tula.sudrf.ru/",
+      "psp_index": "71PSP0002"
+    },
+    {
+      "code": "72RS0013",
+      "name": "Калининский районный суд г. Тюмени (ПСП)",
+      "address": "625001, г. Тюмень, ул. Полевая, д. 1 А, стр. 1",
+      "court_type": "RS",
+      "inn": null,
+      "website": "http://kalininsky.tum.sudrf.ru",
+      "psp_index": "72PSP0001"
+    },
+    {
+      "code": "73RS0002",
+      "name": "Засвияжский районный суд г. Ульяновска (ПСП)",
+      "address": "432028, г. Ульяновск, проезд Полбина, д. 18",
+      "court_type": "RS",
+      "inn": null,
+      "website": "http://zasvijajskiy.uln.sudrf.ru",
+      "psp_index": "73PSP0001"
+    },
+    {
+      "code": "73RS0012",
+      "name": "Мелекесский районный суд Ульяновской области (ПСП)",
+      "address": "433560, с. Новая Малыкла, ул. Зеленая, д. 12",
+      "court_type": "RS",
+      "inn": null,
+      "website": "http://melekesskiy.uln.sudrf.ru",
+      "psp_index": "73PSP0002"
+    },
+    {
+      "code": "74RS0014",
+      "name": "Верхнеуфалейский городской суд Челябинской области (ПСП)",
+      "address": "456970, г. Нязепетровск, ул. Карла Маркса, д. 2",
+      "court_type": "RS",
+      "inn": null,
+      "website": "http://vurfal.chel.sudrf.ru",
+      "psp_index": "74PSP0001"
+    },
+    {
+      "code": "76RS0004",
+      "name": "Даниловский районный суд Ярославской области (ПСП)",
+      "address": "152072, Ярославская обл., г. Данилов, ул. К.Маркса, д. 12",
+      "court_type": "RS",
+      "inn": null,
+      "website": "http://danilovsky.jrs.sudrf.ru",
+      "psp_index": "76PSP0001"
+    },
+    {
+      "code": "77GV0002",
+      "name": "Рязанский гарнизонный военный суд (ПСП)",
+      "address": "390000, г. Рязань, Первомайский пр-т, д. 22Б",
+      "court_type": "GV",
+      "inn": null,
+      "website": "http://rgvs.riz.sudrf.ru",
+      "psp_index": "77PSP0001"
+    },
+    {
+      "code": "86RS0019",
+      "name": "Березовский районный суд Ханты-Мансийского автономного округа - Югры (ПСП)",
+      "address": "628146, п. Игрим, ул. Губкина, д. 1а",
+      "court_type": "RS",
+      "inn": null,
+      "website": "http://berezovo.hmao.sudrf.ru",
+      "psp_index": "86PSP0001"
+    },
+    {
+      "code": "86RS0020",
+      "name": "Октябрьский районный суд Ханты-Мансийского автономного округа - Югры (ПСП)",
+      "address": "628126, пгт. Приобье, ул. Школьная, д.10",
+      "court_type": "RS",
+      "inn": null,
+      "website": "http://oktb.hmao.sudrf.ru",
+      "psp_index": "86PSP0002"
+    },
+    {
+      "code": "89RS0002",
+      "name": "Лабытнангский городской суд Ямало-Ненецкого автономного округа (ПСП)",
+      "address": "629620, Приуральский р-н, п. Аксарка, ул. Первомайская, д. 5",
+      "court_type": "RS",
+      "inn": null,
+      "website": "http://labytnangsky.ynao.sudrf.ru",
+      "psp_index": "89PSP0001"
+    },
+    {
+      "code": "92RS0001",
+      "name": "Балаклавский районный суд города Севастополя (ПСП)",
+      "address": "299042, г. Севастополь, ул. Рубцова, д. 13",
+      "court_type": "RS",
+      "inn": null,
+      "website": "http://balaklavskiy.sev.sudrf.ru",
+      "psp_index": "92PSP0001"
+    }
+  ]
+}
