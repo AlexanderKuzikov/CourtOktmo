@@ -1,5 +1,5 @@
 {
-  "count": 120,
+  "count": 117,
   "total": 10287,
   "percentage": "97.6%",
   "courts": [
@@ -31,51 +31,6 @@
       "phone": "(71039) 5-34-84 (т/ф)",
       "oktmo": null,
       "oktmo_method": "not_found",
-      "psp_count": 0
-    },
-    {
-      "code": "50AS0041",
-      "name": "Арбитражный суд Московской области",
-      "court_type": "AS",
-      "address": "107053 Москва, ГСП-6, просп. Академика Сахарова, 18",
-      "index": "",
-      "inn": "7708044713",
-      "ogrn": "",
-      "okpo": "",
-      "website": "http://asmo.arbitr.ru",
-      "phone": "",
-      "oktmo": null,
-      "oktmo_method": "not_found",
-      "psp_count": 0
-    },
-    {
-      "code": "56MS0119",
-      "name": "Судебный участок № 6 города Новотроицка Оренбургской области",
-      "court_type": "MS",
-      "address": "",
-      "index": "",
-      "inn": "",
-      "ogrn": "",
-      "okpo": "",
-      "website": "",
-      "phone": "",
-      "oktmo": null,
-      "oktmo_method": null,
-      "psp_count": 0
-    },
-    {
-      "code": "56MS0120",
-      "name": "Судебный участок в административно-территориальных границах всего Переволоцкого района Оренбургской области",
-      "court_type": "MS",
-      "address": "",
-      "index": "",
-      "inn": "",
-      "ogrn": "",
-      "okpo": "",
-      "website": "",
-      "phone": "",
-      "oktmo": null,
-      "oktmo_method": null,
       "psp_count": 0
     },
     {
