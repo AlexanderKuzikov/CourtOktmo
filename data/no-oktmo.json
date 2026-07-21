@@ -1,5 +1,5 @@
 {
-  "count": 225,
+  "count": 215,
   "total": 10287,
   "percentage": "97.6%",
   "courts": [
@@ -13,21 +13,6 @@
       "ogrn": "",
       "okpo": "",
       "website": "http://mirsud-chr.ru/",
-      "phone": "",
-      "oktmo": null,
-      "oktmo_method": "not_found",
-      "psp_count": 0
-    },
-    {
-      "code": "24MS0044",
-      "name": "Судебный участок N 44 в Козульском районе",
-      "court_type": "MS",
-      "address": "662050, пгт. Козулька, ул. Зеленая роща, 6",
-      "index": "",
-      "inn": null,
-      "ogrn": "",
-      "okpo": "",
-      "website": "https://ms44.mirsud24.ru/ms/",
       "phone": "",
       "oktmo": null,
       "oktmo_method": "not_found",
@@ -364,21 +349,6 @@
       "psp_count": 0
     },
     {
-      "code": "45UD0000",
-      "name": "Управление Судебного департамента в Курганской области",
-      "court_type": "UD",
-      "address": "640000, Курганская обл., г. Курган. ул. Урицкого, д. 26",
-      "index": "",
-      "inn": "",
-      "ogrn": "",
-      "okpo": "",
-      "website": "",
-      "phone": "(3522) 46-46-25, (3522) 46-46-25 (ф.)",
-      "oktmo": null,
-      "oktmo_method": null,
-      "psp_count": 0
-    },
-    {
       "code": "47MS0046",
       "name": "Судебный участок № 42 Киришского муниципального района Ленинградской области",
       "court_type": "MS",
@@ -424,21 +394,6 @@
       "psp_count": 0
     },
     {
-      "code": "48UD0000",
-      "name": "Управление Судебного департамента в Липецкой области",
-      "court_type": "UD",
-      "address": "398600, Липецкая обл., г. Липецк, ул. Первомайская, д. 63 А",
-      "index": "",
-      "inn": "",
-      "ogrn": "",
-      "okpo": "",
-      "website": "",
-      "phone": "(4742) 23-34-21, 23-34-19 (ф.)",
-      "oktmo": null,
-      "oktmo_method": null,
-      "psp_count": 0
-    },
-    {
       "code": "50AS0041",
       "name": "Арбитражный суд Московской области",
       "court_type": "AS",
@@ -466,21 +421,6 @@
       "phone": "8(495)598-74-29, 8(495)221-06-07",
       "oktmo": null,
       "oktmo_method": "parse_error",
-      "psp_count": 0
-    },
-    {
-      "code": "50MS0094",
-      "name": "Судебный участок № 94 мирового судьи Красногорского судебного района Московской области",
-      "court_type": "MS",
-      "address": "143430, Московская область, п. Нахабино-1, ул. Советская, д. 28",
-      "index": "",
-      "inn": null,
-      "ogrn": "",
-      "okpo": "",
-      "website": "http://94.mo.msudrf.ru",
-      "phone": "",
-      "oktmo": null,
-      "oktmo_method": "not_found",
       "psp_count": 0
     },
     {
@@ -1504,37 +1444,6 @@
       "psp_count": 0
     },
     {
-      "code": "63RS0005",
-      "name": "Большеглушицкий районный суд Самарской области",
-      "court_type": "RS",
-      "address": "446180, Самарская обл., с. Большая Глушица, пл. им. 60-летия Октября, д. 1",
-      "index": "",
-      "inn": null,
-      "ogrn": "",
-      "okpo": "",
-      "website": "http://bolsheglushitsky.sam.sudrf.ru",
-      "phone": "(84673) 2-19-57",
-      "oktmo": null,
-      "oktmo_method": "not_found",
-      "psp_count": 0
-    },
-    {
-      "code": "66GV0006",
-      "name": "Магнитогорский гарнизонный военный суд",
-      "court_type": "GV",
-      "address": "456444, Челябинская обл., г. Чебаркуль, Военный городок №1",
-      "index": "",
-      "inn": null,
-      "ogrn": "",
-      "okpo": "",
-      "website": "http://mgvs.chel.sudrf.ru",
-      "phone": "(35168) 5-54-16",
-      "oktmo": null,
-      "oktmo_method": "not_found",
-      "psp_count": 1,
-      "psp_address_0": "456444, г Чебаркуль, ул Каширина, 16, а/я 413"
-    },
-    {
       "code": "66GV0008",
       "name": "109 гарнизонный военный суд",
       "court_type": "GV",
@@ -1580,36 +1489,6 @@
       "psp_count": 0
     },
     {
-      "code": "71UD0000",
-      "name": "Управление Судебного департамента в Тульской области",
-      "court_type": "UD",
-      "address": "300041, Тульская обл., г. Тула, ул. Менделеевская, д. 3",
-      "index": "",
-      "inn": "",
-      "ogrn": "",
-      "okpo": "",
-      "website": "",
-      "phone": "(4872) 36-26-61",
-      "oktmo": null,
-      "oktmo_method": null,
-      "psp_count": 0
-    },
-    {
-      "code": "72UD0000",
-      "name": "Управление Судебного департамента в Тюменской области",
-      "court_type": "UD",
-      "address": "625038, Тюменская обл., г. Тюмень, ул. Хохрякова, д. 77",
-      "index": "",
-      "inn": "",
-      "ogrn": "",
-      "okpo": "",
-      "website": "",
-      "phone": "(3452) 56-85-45",
-      "oktmo": null,
-      "oktmo_method": null,
-      "psp_count": 0
-    },
-    {
       "code": "74MS0109",
       "name": "Судебный участок № 1 г. Копейск Челябинской области",
       "court_type": "MS",
@@ -1622,21 +1501,6 @@
       "phone": "",
       "oktmo": null,
       "oktmo_method": "not_found",
-      "psp_count": 0
-    },
-    {
-      "code": "76UD0000",
-      "name": "Управление Судебного департамента в Ярославской области",
-      "court_type": "UD",
-      "address": "150043, Ярославская обл., г. Ярославль, ул. К.Либкнехта, д. 20/9",
-      "index": "",
-      "inn": "",
-      "ogrn": "",
-      "okpo": "",
-      "website": "",
-      "phone": "(4852) 59-05-25",
-      "oktmo": null,
-      "oktmo_method": null,
       "psp_count": 0
     },
     {
@@ -1742,21 +1606,6 @@
       "phone": "",
       "oktmo": null,
       "oktmo_method": null,
-      "psp_count": 0
-    },
-    {
-      "code": "84RS0003",
-      "name": "Хатангский районный суд Красноярского края",
-      "court_type": "RS",
-      "address": "647460, Красноярский край, сп. Хатанга, ул. Советская, д. 23",
-      "index": "",
-      "inn": null,
-      "ogrn": "",
-      "okpo": "",
-      "website": "http://hatanga.dud.sudrf.ru",
-      "phone": "(391-76) 2-10-33",
-      "oktmo": null,
-      "oktmo_method": "parse_error",
       "psp_count": 0
     },
     {
