@@ -1,5 +1,5 @@
 {
-  "count": 109,
+  "count": 107,
   "total": 10287,
   "percentage": "97.6%",
   "courts": [
@@ -61,36 +61,6 @@
       "phone": "",
       "oktmo": null,
       "oktmo_method": null,
-      "psp_count": 0
-    },
-    {
-      "code": "86MS0076",
-      "name": "Судебный участок № 4 Ханты-Мансийского судебного района",
-      "court_type": "MS",
-      "address": "",
-      "index": "",
-      "inn": null,
-      "ogrn": "",
-      "okpo": "",
-      "website": "http://mirsud86.ru/ms/696/",
-      "phone": "",
-      "oktmo": null,
-      "oktmo_method": "not_found",
-      "psp_count": 0
-    },
-    {
-      "code": "86MS0077",
-      "name": "Судебный участок № 3 Советского судебного района",
-      "court_type": "MS",
-      "address": "",
-      "index": "",
-      "inn": null,
-      "ogrn": "",
-      "okpo": "",
-      "website": "http://mirsud86.ru/ms/698/",
-      "phone": "",
-      "oktmo": null,
-      "oktmo_method": "not_found",
       "psp_count": 0
     },
     {
