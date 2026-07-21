@@ -1,5 +1,5 @@
 {
-  "count": 107,
+  "count": 103,
   "total": 10287,
   "percentage": "97.6%",
   "courts": [
@@ -61,66 +61,6 @@
       "phone": "",
       "oktmo": null,
       "oktmo_method": null,
-      "psp_count": 0
-    },
-    {
-      "code": "86MS0078",
-      "name": "Судебный участок № 2 Урайского судебного района",
-      "court_type": "MS",
-      "address": "",
-      "index": "",
-      "inn": null,
-      "ogrn": "",
-      "okpo": "",
-      "website": "http://mirsud86.ru/ms/699/",
-      "phone": "",
-      "oktmo": null,
-      "oktmo_method": "not_found",
-      "psp_count": 0
-    },
-    {
-      "code": "86MS0079",
-      "name": "Судебный участок № 15 Сургутского судебного района города окружного значения Сургут",
-      "court_type": "MS",
-      "address": "",
-      "index": "",
-      "inn": null,
-      "ogrn": "",
-      "okpo": "",
-      "website": "http://mirsud86.ru/ms/700",
-      "phone": "",
-      "oktmo": null,
-      "oktmo_method": "not_found",
-      "psp_count": 0
-    },
-    {
-      "code": "86MS0080",
-      "name": "Судебный участок № 6 Ханты-Мансийского судебного района",
-      "court_type": "MS",
-      "address": "",
-      "index": "",
-      "inn": null,
-      "ogrn": "",
-      "okpo": "",
-      "website": "http://mirsud86.ru/ms/701/",
-      "phone": "",
-      "oktmo": null,
-      "oktmo_method": "not_found",
-      "psp_count": 0
-    },
-    {
-      "code": "90RS0001",
-      "name": "Бердянский межрайонный суд Запорожской области",
-      "court_type": "RS",
-      "address": "",
-      "index": "",
-      "inn": null,
-      "ogrn": "",
-      "okpo": "",
-      "website": "http://berdyanskiy.zpr.sudrf.ru",
-      "phone": "",
-      "oktmo": null,
-      "oktmo_method": "not_found",
       "psp_count": 0
     },
     {
