@@ -1,14 +1,14 @@
 {
   "total": 155,
-  "withOktmo": 101,
+  "withOktmo": 148,
   "results": [
     {
       "code": "10RS0005",
       "psp_idx": 0,
       "address": "186910, Респ Карелия, п.Калевала, ул Советская д16а",
       "phone": "",
-      "oktmo": null,
-      "method": null,
+      "oktmo": "86609151051",
+      "method": "fias_v2",
       "locality": null
     },
     {
@@ -28,8 +28,8 @@
       "psp_idx": 0,
       "address": "169480, с Усть-Цильма, ул Советская, д 139",
       "phone": "",
-      "oktmo": null,
-      "method": null,
+      "oktmo": "87652440101",
+      "method": "fias_v2",
       "locality": {
         "type": "с",
         "name": "Усть-"
@@ -76,8 +76,8 @@
       "psp_idx": 0,
       "address": "678650, Таттинский район, с Ытык-Кюель, ул А.Кулаковского, д 25",
       "phone": "",
-      "oktmo": null,
-      "method": null,
+      "oktmo": "98604445101",
+      "method": "fias_v2",
       "locality": {
         "type": "с",
         "name": "Ытык-"
@@ -109,8 +109,8 @@
       "psp_idx": 0,
       "address": "427060, Дебесский район, с Дебесы, ул Ярославцева, д 1",
       "phone": "",
-      "oktmo": null,
-      "method": null,
+      "oktmo": "94514000101",
+      "method": "fias_v2",
       "locality": {
         "type": "с",
         "name": "Дебесы"
@@ -157,8 +157,8 @@
       "psp_idx": 0,
       "address": "427920, с.Каракулино, ул 60 лет Октября, д4",
       "phone": "",
-      "oktmo": null,
-      "method": null,
+      "oktmo": "94522000101",
+      "method": "fias_v2",
       "locality": null
     },
     {
@@ -310,8 +310,8 @@
       "psp_idx": 0,
       "address": "ПСП, 682380, р-н им.Полины Осипенко, с им.Полины Осипенко, Кербинский пер, д 1",
       "phone": "",
-      "oktmo": null,
-      "method": null,
+      "oktmo": "45348000",
+      "method": "fias_v2",
       "locality": null
     },
     {
@@ -391,8 +391,8 @@
       "psp_idx": 0,
       "address": "309420, Белгородская обл, пгт Красная Яруга, ул Центральная, д 73",
       "phone": "",
-      "oktmo": null,
-      "method": null,
+      "oktmo": "14534000051",
+      "method": "fias_v2",
       "locality": {
         "type": "пгт",
         "name": "Красная"
@@ -520,8 +520,8 @@
       "psp_idx": 0,
       "address": "404462, рп.Чернышковский, ул Техническая, д 17",
       "phone": "",
-      "oktmo": null,
-      "method": null,
+      "oktmo": "18658151051",
+      "method": "fias_v2",
       "locality": null
     },
     {
@@ -616,8 +616,8 @@
       "psp_idx": 0,
       "address": "684200, п Соболево, ул Советская, д 27",
       "phone": "",
-      "oktmo": null,
-      "method": null,
+      "oktmo": "46757000821",
+      "method": "fias_v2",
       "locality": {
         "type": "п",
         "name": "Соболево"
@@ -628,8 +628,8 @@
       "psp_idx": 0,
       "address": "612500, Кировская обл, пгт Фалёнки, ул Свободы, д 132",
       "phone": "",
-      "oktmo": null,
-      "method": null,
+      "oktmo": "33543000051",
+      "method": "fias_v2",
       "locality": {
         "type": "пгт",
         "name": "Фалёнки"
@@ -736,8 +736,8 @@
       "psp_idx": 0,
       "address": "613200, г Белая Холуница, ул Советская, д 29",
       "phone": "",
-      "oktmo": null,
-      "method": null,
+      "oktmo": "33605101001",
+      "method": "fias_v2",
       "locality": {
         "type": "г",
         "name": "Белая"
@@ -808,8 +808,8 @@
       "psp_idx": 0,
       "address": "157080, п Сусанино, ул 1-го мая, д 2",
       "phone": "",
-      "oktmo": null,
-      "method": null,
+      "oktmo": "34544000051",
+      "method": "fias_v2",
       "locality": {
         "type": "п",
         "name": "Сусанино"
@@ -820,8 +820,8 @@
       "psp_idx": 0,
       "address": "157980, Костромская обл, п Кадый, ул Четвертного, д 19",
       "phone": "",
-      "oktmo": null,
-      "method": null,
+      "oktmo": "34510000051",
+      "method": "fias_v2",
       "locality": {
         "type": "п",
         "name": "Кадый"
@@ -844,8 +844,8 @@
       "psp_idx": 0,
       "address": "399140, c.Доброе, ул Интернациональная, д 8",
       "phone": "",
-      "oktmo": null,
-      "method": null,
+      "oktmo": "42515000101",
+      "method": "fias_v2",
       "locality": null
     },
     {
@@ -865,8 +865,8 @@
       "psp_idx": 0,
       "address": "686050, Магаданская область, Тенькинский район, п Усть-Омчуг, ул Горняцкая, д44 А",
       "phone": "",
-      "oktmo": null,
-      "method": null,
+      "oktmo": "18701000001",
+      "method": "fias_v2",
       "locality": {
         "type": "п",
         "name": "Усть-"
@@ -877,8 +877,8 @@
       "psp_idx": 0,
       "address": "ул Речная, д 20, корп 1",
       "phone": "",
-      "oktmo": null,
-      "method": null,
+      "oktmo": "67314000",
+      "method": "fias_v2",
       "locality": null
     },
     {
@@ -886,8 +886,8 @@
       "psp_idx": 0,
       "address": "143180, Московская область, Звенигород, ул Почтовая, 51",
       "phone": "",
-      "oktmo": null,
-      "method": null,
+      "oktmo": "46755000011",
+      "method": "fias_v2",
       "locality": null
     },
     {
@@ -895,8 +895,8 @@
       "psp_idx": 0,
       "address": "142181, г.о.Подольск, мкр Климовск, ул Западная, д3",
       "phone": "",
-      "oktmo": null,
-      "method": null,
+      "oktmo": "46760000001",
+      "method": "fias_v2",
       "locality": null
     },
     {
@@ -928,8 +928,8 @@
       "psp_idx": 0,
       "address": "ул Свободы, д 63, пом. 10",
       "phone": "",
-      "oktmo": null,
-      "method": null,
+      "oktmo": "45368000",
+      "method": "fias_v2",
       "locality": null
     },
     {
@@ -1021,8 +1021,8 @@
       "psp_idx": 0,
       "address": "пер Комсомольский, д 11",
       "phone": "",
-      "oktmo": null,
-      "method": null,
+      "oktmo": "45343000",
+      "method": "fias_v2",
       "locality": null
     },
     {
@@ -1030,8 +1030,8 @@
       "psp_idx": 0,
       "address": "442450, с Русский Камешкир, ул Гагарина, д 17Б",
       "phone": "",
-      "oktmo": null,
-      "method": null,
+      "oktmo": "56631425101",
+      "method": "fias_v2",
       "locality": {
         "type": "с",
         "name": "Русский"
@@ -1138,8 +1138,8 @@
       "psp_idx": 0,
       "address": "182900, п Локня, ул Социалистическая, д 6",
       "phone": "",
-      "oktmo": null,
-      "method": null,
+      "oktmo": "38640438101",
+      "method": "fias_v2",
       "locality": {
         "type": "п",
         "name": "Локня"
@@ -1150,8 +1150,8 @@
       "psp_idx": 0,
       "address": "182010, Куньинский район, рп.Кунья, ул Дзержинского, д 104",
       "phone": "",
-      "oktmo": null,
-      "method": null,
+      "oktmo": "58516000051",
+      "method": "fias_v2",
       "locality": null
     },
     {
@@ -1159,8 +1159,8 @@
       "psp_idx": 0,
       "address": "181270, п Палкино, ул Островская, д 21",
       "phone": "",
-      "oktmo": null,
-      "method": null,
+      "oktmo": "78540000287",
+      "method": "fias_v2",
       "locality": {
         "type": "п",
         "name": "Палкино"
@@ -1243,8 +1243,8 @@
       "psp_idx": 0,
       "address": "391170, Рязанская область, рп.Старожилово, ул Советская, д 7",
       "phone": "",
-      "oktmo": null,
-      "method": null,
+      "oktmo": "61548000051",
+      "method": "fias_v2",
       "locality": null
     },
     {
@@ -1252,8 +1252,8 @@
       "psp_idx": 0,
       "address": "391660, рп.Ермишь, пл Ленина, д 63",
       "phone": "",
-      "oktmo": null,
-      "method": null,
+      "oktmo": "61502000051",
+      "method": "fias_v2",
       "locality": null
     },
     {
@@ -1273,8 +1273,8 @@
       "psp_idx": 0,
       "address": "ПСП, 391240, рп.Александро-Невский, ул Советская, д 13",
       "phone": "",
-      "oktmo": null,
-      "method": null,
+      "oktmo": "61520000051",
+      "method": "fias_v2",
       "locality": null
     },
     {
@@ -1282,8 +1282,8 @@
       "psp_idx": 0,
       "address": "391920, Рязанская область, рп.Ухолово, ул Революции, д 17",
       "phone": "",
-      "oktmo": null,
-      "method": null,
+      "oktmo": "61550000051",
+      "method": "fias_v2",
       "locality": null
     },
     {
@@ -1291,8 +1291,8 @@
       "psp_idx": 0,
       "address": "391630, рп.Пителино, ул Красная, д 24",
       "phone": "",
-      "oktmo": null,
-      "method": null,
+      "oktmo": "61523000051",
+      "method": "fias_v2",
       "locality": null
     },
     {
@@ -1300,8 +1300,8 @@
       "psp_idx": 0,
       "address": "391770, Рязанская область, рп.Милославское, ул Центральная, д 33",
       "phone": "",
-      "oktmo": null,
-      "method": null,
+      "oktmo": "61515000198",
+      "method": "fias_v2",
       "locality": null
     },
     {
@@ -1309,8 +1309,8 @@
       "psp_idx": 0,
       "address": "391480, рп.Путятино, ул Ворошилова, д 9",
       "phone": "",
-      "oktmo": null,
-      "method": null,
+      "oktmo": "78515000427",
+      "method": "fias_v2",
       "locality": null
     },
     {
@@ -1318,8 +1318,8 @@
       "psp_idx": 0,
       "address": "391420, рп.Чучково, пл Ленина, д 40",
       "phone": "",
-      "oktmo": null,
-      "method": null,
+      "oktmo": "61553000051",
+      "method": "fias_v2",
       "locality": null
     },
     {
@@ -1327,8 +1327,8 @@
       "psp_idx": 0,
       "address": "460040, г Оренбург, ул Мира, д 3А",
       "phone": "",
-      "oktmo": null,
-      "method": null,
+      "oktmo": "53701000001",
+      "method": "fias_v2",
       "locality": {
         "type": "г",
         "name": "Оренбург"
@@ -1339,8 +1339,8 @@
       "psp_idx": 0,
       "address": "610000, г Киров, ул Московская, д 28",
       "phone": "",
-      "oktmo": null,
-      "method": null,
+      "oktmo": "33701000001",
+      "method": "fias_v2",
       "locality": {
         "type": "г",
         "name": "Киров"
@@ -1363,8 +1363,8 @@
       "psp_idx": 0,
       "address": "413370, с Александров-Гай, ул Коммунистическая, д 35",
       "phone": "",
-      "oktmo": null,
-      "method": null,
+      "oktmo": "61520000112",
+      "method": "fias_v2",
       "locality": {
         "type": "с",
         "name": "Александров-"
@@ -1375,8 +1375,8 @@
       "psp_idx": 0,
       "address": "456444, г Чебаркуль, ул Каширина, 16, а/я 413",
       "phone": "",
-      "oktmo": null,
-      "method": null,
+      "oktmo": "75758000001",
+      "method": "fias_v2",
       "locality": {
         "type": "г",
         "name": "Чебаркуль"
@@ -1411,8 +1411,8 @@
       "psp_idx": 0,
       "address": "624400, г Новая Ляля, ул Советская, д 14",
       "phone": "",
-      "oktmo": null,
-      "method": null,
+      "oktmo": "65544000001",
+      "method": "fias_v2",
       "locality": {
         "type": "г",
         "name": "Новая"
@@ -1444,8 +1444,8 @@
       "psp_idx": 0,
       "address": "624910, рп.Гари, ул Октябрьская, д 8",
       "phone": "",
-      "oktmo": null,
-      "method": null,
+      "oktmo": "87624430126",
+      "method": "fias_v2",
       "locality": null
     },
     {
@@ -1453,8 +1453,8 @@
       "psp_idx": 1,
       "address": "624971, рп.Сосьва, ул Ленина, д 2А",
       "phone": "",
-      "oktmo": null,
-      "method": null,
+      "oktmo": "65548000106",
+      "method": "fias_v2",
       "locality": null
     },
     {
@@ -1462,8 +1462,8 @@
       "psp_idx": 0,
       "address": "623650, рп.Тугулым, ул Ленина, д 42",
       "phone": "",
-      "oktmo": null,
-      "method": null,
+      "oktmo": "65555000051",
+      "method": "fias_v2",
       "locality": null
     },
     {
@@ -1471,8 +1471,8 @@
       "psp_idx": 0,
       "address": "623930, с Туринская слобода, ул Первомайская, д 5",
       "phone": "",
-      "oktmo": null,
-      "method": null,
+      "oktmo": "65556000001",
+      "method": "fias_v2",
       "locality": {
         "type": "с",
         "name": "Туринская"
@@ -1507,8 +1507,8 @@
       "psp_idx": 0,
       "address": "300016, г.Тула, ул Доктора Гумилевской, д 2",
       "phone": "",
-      "oktmo": null,
-      "method": null,
+      "oktmo": "70701000001",
+      "method": "fias_v2",
       "locality": null
     },
     {
@@ -1540,8 +1540,8 @@
       "psp_idx": 0,
       "address": "433560, с Новая Малыкла, ул Зеленая, д 12",
       "phone": "",
-      "oktmo": null,
-      "method": null,
+      "oktmo": "73627450101",
+      "method": "fias_v2",
       "locality": {
         "type": "с",
         "name": "Новая"
@@ -1576,8 +1576,8 @@
       "psp_idx": 0,
       "address": "390000, г Рязань, Первомайский пр-т, д 22Б",
       "phone": "",
-      "oktmo": null,
-      "method": null,
+      "oktmo": "61701000001",
+      "method": "fias_v2",
       "locality": {
         "type": "г",
         "name": "Рязань"
@@ -1588,8 +1588,8 @@
       "psp_idx": 0,
       "address": "628146, п Игрим, ул Губкина, д 1А",
       "phone": "",
-      "oktmo": null,
-      "method": null,
+      "oktmo": "94530000196",
+      "method": "fias_v2",
       "locality": {
         "type": "п",
         "name": "Игрим"
@@ -1612,8 +1612,8 @@
       "psp_idx": 0,
       "address": "629620, Приуральский р-н, п Аксарка, ул Первомайская, д 5",
       "phone": "",
-      "oktmo": null,
-      "method": null,
+      "oktmo": "71939000102",
+      "method": "fias_v2",
       "locality": {
         "type": "п",
         "name": "Аксарка"
@@ -1756,8 +1756,8 @@
       "psp_idx": 0,
       "address": "ул Полиграфистов, д18",
       "phone": "",
-      "oktmo": null,
-      "method": null,
+      "oktmo": "20701000001",
+      "method": "fias_v2",
       "locality": null
     },
     {
